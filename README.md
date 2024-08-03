@@ -33,7 +33,7 @@ cd fomofactory/frontend
 npm install
 # if the above throws error, it will be because of react version (==18.0.0+). Use the commands below to install Material
 npx tsc
-node ./dist/index.js
+npm start
 ```
 
 
